@@ -1,4 +1,4 @@
-# Informal_Response_1_with_more_than_2_features
+# Informal_Response_1_with_2_features
 
 ## Model using bedrooms and square footage to predict price
 
@@ -28,3 +28,12 @@ Once again the 3 bedroom house hudgins offers the best deal overall. However new
 
 
 This time using square footage and the total number of rooms instead of just bedrooms, the predicted house prices are different but the results are virtually the same. 
+
+
+
+
+
+
+
+
+
