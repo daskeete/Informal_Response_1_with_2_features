@@ -13,3 +13,8 @@ Once again the 3 bedroom house hudgins offers the best deal overall. However new
 |4_Bedroom(mobjack) 3524 sq ft              |	289000	            |341144	                |$51,144.00             |
 |5_Bedroom(mathews) 3051 sqft               |	347500              |	307035	              |($40,465.00             | 
 
+
+
+## Model using total number of rooms and square footage to predict price
+
+
