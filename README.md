@@ -17,4 +17,14 @@ Once again the 3 bedroom house hudgins offers the best deal overall. However new
 
 ## Model using total number of rooms and square footage to predict price
 
+| Number of Rooms with sq. footage       | Actual House Price  |	Predicted House Price |	Savings/(Overpayment) |
+| -------------------                       | --------------------| ----------------------| ----------------------|
+|3_Bedroom(moon) 1479 sqft                  |250000	              |165949	                |($84,051.00)           |
+|<mark>4_Bedroom(hudgins) 1238 sqft </mark>	|<mark>97000 </mark>  |<mark>161532 </mark>   |<mark>	$64,532.00 </mark> |
+|5_Bedroom(newptcomfort) 2840 sqft          |229000               |	278262                |	$49,262.00             | 
+|7_Bedroom(church) 3680 sqft	              |399000               |	356330	              |($42,670.00)           |
+|6_Bedroom(mobjack) 3524 sq ft              |	289000	            |334650	                |$45,650.00             |
+|7_Bedroom(mathews) 3051 sqft               |	347500              |	314983	              |($32,517.00             | 
 
+
+This time using square footage and the total number of rooms instead of just bedrooms, the predicted house prices are different but the results are virtually the same. 
